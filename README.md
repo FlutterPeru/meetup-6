@@ -27,7 +27,7 @@ https://www.meetup.com/Flutter-Peru/events/267910440/
 
 ## Sponsors
 
-- [Avantica] (https://www.avantica.net/)
+- [Avantica](https://www.avantica.net/)
 
 ## Grupo en Facebook 
 
