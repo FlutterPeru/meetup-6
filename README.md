@@ -7,9 +7,9 @@
 Slides : https://docs.google.com/presentation/d/1JzpO30pn6Iyysg6vrePQGNlklA0cp_sW-sBrnma_ogQ/edit?fbclid=IwAR0mUKPdxm71EdEbbzVXDMxA2PzNa-CHkcXVmYTd-i7q30MGmx_4ex9TfNM#slide=id.p
 
 
-- **"Best practices for rendering widgets" - Frank Moreno**
+- **"Tips for rendering optimization" - Frank Moreno**
 
-Slides  : 
+Slides  : https://docs.google.com/presentation/d/1ynFwRwFrOeRD4mzA73jMSPdQygi07u4H_EXK5kW0bMg/edit#slide=id.g755bc8f910_0_21
 
 
 - **"Flutter Desktop" - Jean Paul Gotopo**
