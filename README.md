@@ -14,7 +14,7 @@ Slides  :
 
 - **"Flutter Desktop" - Jean Paul Gotopo**
 
-Slides: 
+Slides: https://drive.google.com/file/d/1E8gu1C2Ui3b9bgqw56RaVWutvtXWZhyL/view?fbclid=IwAR0FbgYUbAt1ydKZMCXvMFdRsJ1_XduYuU2--eI1VzBhdkRDCbqQh-cTwhA
 
 
 
